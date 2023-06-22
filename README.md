@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kirill Leonov
 - 💎 Ruby
-- 🌱 Software Engineer | Potok.Digital
+- 👨‍💻 Software Engineer | 🅿️ Potok.Digital
 - 📫 leonov835@yandex.ru
