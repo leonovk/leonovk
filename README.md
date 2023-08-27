@@ -2,3 +2,4 @@
 - 💎 Ruby
 - 👨‍💻 Software Engineer | 🅿️ Potok.Digital
 - 📫 leonov835@yandex.ru
+- ![Gem](https://img.shields.io/gem/dt/profiles%2Fleonovk)
