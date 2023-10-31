@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kirill Leonov
-- 💎 Ruby / 🌑 Lua / 👀 Go
+- 💎 Ruby / 🌑 Lua
 - 👨‍💻 Software Engineer | 🅿️ Potok.Digital
 - 📫 leonov835@yandex.ru
