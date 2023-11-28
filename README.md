@@ -2,3 +2,4 @@
 - 💎 Ruby / 🦀 Rust
 - 👨‍💻 Software Engineer | 🅿️ Potok.Digital
 - 📫 leonov835@yandex.ru
+- 🐧 btw i use arch
