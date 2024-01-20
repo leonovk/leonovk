@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kirill Leonov
-- 💎 Ruby / 🦀 Rust
+- 💎 Ruby / 🦀 Rust / [Minicode](https://github.com/leonovk/minicode)
 - 👨‍💻 Software Engineer | 🅿️ Potok.Digital
 - 📫 leonov835@yandex.ru
+- 😬 I love getting covered in unit tests
 - 🐧 btw i use Hannah Montana Linux
