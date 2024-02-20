@@ -1,5 +1,3 @@
-# Welcome to my GitHub
-
 👋 Hi, I’m Kirill Leonov
 
 👨‍💻 Software Engineer | 🅿️ Potok.Digital
