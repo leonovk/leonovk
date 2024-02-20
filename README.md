@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Kirill Leonov
-- 💎 Ruby / 🦀 Rust / [Minicode](https://github.com/leonovk/minicode)
-- 👨‍💻 Software Engineer | 🅿️ Potok.Digital
-- 📫 leonov835@yandex.ru
-- 🐧 btw i use Hannah Montana Linux
+# Welcome to my GitHub
+
+👋 Hi, I’m Kirill Leonov
+
+👨‍💻 Software Engineer | 🅿️ Potok.Digital
+
+📫 <leonov835@yandex.ru>
+
+🐧 btw i use Hannah Montana Linux
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonovk&layout=compact&theme=dark)
