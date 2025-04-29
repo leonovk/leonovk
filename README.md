@@ -1,6 +1,6 @@
 👋 Hi, I’m Kirill Leonov
 
-👨‍💻 Software Engineer | 🅿️ Potok.Digital
+👨‍💻 Software Engineer | 🏷 inSales
 
 📫 <leonov835@yandex.ru>
 
