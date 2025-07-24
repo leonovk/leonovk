@@ -1,9 +1,9 @@
-👋 Hi, I’m Kirill Leonov
+# 👋 Hi, I’m Kirill Leonov
 
-👨‍💻 Software Engineer | 🛍 inSales
+- 🏢 Senior Software Engineer at [@inSales](https://github.com/inSales)
+- 📍 Based in Moscow
+- 💡 Passionate about computer science
 
-📫 <leonov835@yandex.ru>
+### 🚀 About Me
 
-🐧 btw i use arch
-
-**You will find the projects I am currently working on in the pinned repositories.**
+I'm a software engineer deeply in love with computer science. I enjoy building projects, learning new technologies, and collaborating with the open-source community.
